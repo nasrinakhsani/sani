@@ -1,0 +1,26 @@
+body {
+  font-family : sans-serif;
+}
+
+.btn-aksi {
+  text-decoration: none;
+}
+
+.btn-tambah {
+  border: 1px solid grey;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px 5px;
+  text-decoration: none;
+  background-color: dodgerblue;
+  color: white;
+}
+
+.btn-tambah:hover {
+  opacity: 70%
+}
+
+ul li {
+  list-style-type: none;
+}
+
